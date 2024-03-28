@@ -27,7 +27,8 @@ The script operates by defining two main parameters—`$sender` and `$recipient`
 
 ## Author
 
-Aviad Ofek - This script was developed with the aim of enhancing system administration tasks and streamlining the process of email log tracking.
+[aviado1](https://github.com/aviado1) - This script was developed with the aim of enhancing system administration tasks and streamlining the process of email log tracking.
+
 
 ## Note
 
